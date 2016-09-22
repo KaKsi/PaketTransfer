@@ -1,0 +1,18 @@
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\Paket02\Paket02\bin\Debug\Paket02.exe.config
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\Paket02\Paket02\obj\Debug\Paket02.exe
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\Paket02\Paket02\obj\Debug\Paket02.pdb
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\Paket02\PaketTransfer\bin\Debug\Paket02.exe.config
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\Paket02\PaketTransfer\obj\Debug\Paket02.exe
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\Paket02\PaketTransfer\obj\Debug\Paket02.pdb
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PaketTransfer\PaketTransfer\bin\Debug\Paket02.exe.config
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PaketTransfer\PaketTransfer\obj\Debug\Paket02.exe
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PaketTransfer\PaketTransfer\obj\Debug\Paket02.pdb
+C:\Users\Faruk\Desktop\PaketTransfer\PaketTransfer\bin\Debug\Paket02.exe.config
+C:\Users\Faruk\Desktop\PaketTransfer\PaketTransfer\obj\Debug\Paket02.exe
+C:\Users\Faruk\Desktop\PaketTransfer\PaketTransfer\obj\Debug\Paket02.pdb
+C:\Users\Faruk\Desktop\PaketTransfer\PaketTransfer\bin\Debug\Paket02.exe
+C:\Users\Faruk\Desktop\PaketTransfer\PaketTransfer\bin\Debug\Paket02.pdb
+C:\Users\Faruk\Desktop\PaketTransfer\PaketTransfer\obj\Debug\PaketTransfer.csprojResolveAssemblyReference.cache
+C:\Users\Faruk\Desktop\PaketTransfer\PaketTransfer\obj\Debug\Paket02.Form1.resources
+C:\Users\Faruk\Desktop\PaketTransfer\PaketTransfer\obj\Debug\Paket02.Properties.Resources.resources
+C:\Users\Faruk\Desktop\PaketTransfer\PaketTransfer\obj\Debug\PaketTransfer.csproj.GenerateResource.Cache

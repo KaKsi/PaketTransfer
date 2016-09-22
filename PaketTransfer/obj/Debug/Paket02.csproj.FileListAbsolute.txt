@@ -1,0 +1,9 @@
+c:\users\faruk\documents\visual studio 2015\Projects\Paket02\Paket02\bin\Debug\Paket02.exe.config
+c:\users\faruk\documents\visual studio 2015\Projects\Paket02\Paket02\bin\Debug\Paket02.exe
+c:\users\faruk\documents\visual studio 2015\Projects\Paket02\Paket02\bin\Debug\Paket02.pdb
+c:\users\faruk\documents\visual studio 2015\Projects\Paket02\Paket02\obj\Debug\Paket02.csprojResolveAssemblyReference.cache
+c:\users\faruk\documents\visual studio 2015\Projects\Paket02\Paket02\obj\Debug\Paket02.Form1.resources
+c:\users\faruk\documents\visual studio 2015\Projects\Paket02\Paket02\obj\Debug\Paket02.Properties.Resources.resources
+c:\users\faruk\documents\visual studio 2015\Projects\Paket02\Paket02\obj\Debug\Paket02.csproj.GenerateResource.Cache
+c:\users\faruk\documents\visual studio 2015\Projects\Paket02\Paket02\obj\Debug\Paket02.exe
+c:\users\faruk\documents\visual studio 2015\Projects\Paket02\Paket02\obj\Debug\Paket02.pdb
